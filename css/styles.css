@@ -59,7 +59,7 @@ body {
 /*------EARTH PIC CONTENT------*/
 
 .bg-blur {
-    background-image: url("/ADV WEB/img/earth.jpg");
+    background-image: url("/img/earth.jpg");
     background-size: cover;
     height: 55em;
     width: 100vw;
