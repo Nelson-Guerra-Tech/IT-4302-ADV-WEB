@@ -58,8 +58,8 @@ body {
 
 /*------EARTH PIC CONTENT------*/
 
-.bg-blur {
-    background-image: url("https://unsplash.com/photos/Q1p7bh3SHj8");
+.bg-blur img{
+    
     background-size: cover;
     height: 55em;
     width: 100vw;
